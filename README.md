@@ -60,3 +60,4 @@ To run the application, execute the script. The Flask server will start running 
 4. Ensure 'index.html' exists in the templates directory of your application for the root route to function correctly.
 
 5. The application needs to be connected with a `ChromeDriver` for __Selenium__ to function properly. Ensure that it is installed and correctly set up.
+6. Link to the trained model: https://drive.google.com/file/d/1hPojbaYvZaFTo3r6yvQG4f75g37k71lH/view?usp=share_link
